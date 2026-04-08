@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "value": "70",
+      "value_classification": "Greed",
+      "timestamp": "1704067200"
+    },
+    {
+      "value": "30",
+      "value_classification": "Fear",
+      "timestamp": "1704153600"
+    }
+  ]
+}
